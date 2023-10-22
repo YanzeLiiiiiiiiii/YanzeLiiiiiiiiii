@@ -1,4 +1,4 @@
-About Me
+<h3>About Me</h3>
 Hello there! 👋 I'm a looking for the front-end developer job with a strong driving force of being full-stack developer. I thrive on creating engaging and user-friendly application experiences, and I'm on a journey to turn my passion into a profession.
 
 Here's a bit about me:
