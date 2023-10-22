@@ -22,4 +22,4 @@ I'm excited to explore new opportunities and collaborate with fellow developers 
 <br>
 <p>📧 Email: yanze1221@gmail.com<p/>
 <p>💼 LinkedIn: https://www.linkedin.com/in/yanze-li-079b7823a/<p/>
-<p>Let's create awesome web experiences together! 😊<p/>
+<p>Let's create awesome applications together! 😊<p/>
