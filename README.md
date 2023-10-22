@@ -8,18 +8,6 @@ Here's a bit about me:
 🚀 I love learning and experimenting with new technologies to stay at the cutting edge of programming development.</p>
 <p>💬 Let's connect, collaborate, and create amazing  applications together!</p>
 <br>
-<p>My Tech Stack</p>
-
-I'm familiar with a variety of technologies, which I leverage to build stunning web applications:
-
-Front-End: My heart lies in front-end development, and I'm well-versed in React to create interactive and dynamic user interfaces.
-
-Back-End: I have experience with Node.js, which allows me to build robust and scalable back-end services to support my front-end projects.
-
-Java: My background in Java provides a strong foundation for building high-performance applications and services.
-
-Python: I enjoy using Python for a variety of tasks, from data analysis to scripting and automation.
-<br><br>
 My Projects
 I've worked on a range of exciting projects, including:
 <p>🌐 Building responsive and mobile-first websites that offer a seamless user experience.</p>
