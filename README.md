@@ -8,7 +8,6 @@ Hello there! 👋 I'm a looking for the front-end developer job with a strong dr
 🚀 I love learning and experimenting with new technologies to stay at the cutting edge of programming development.</p>
 <p>💬 Let's connect, collaborate, and create amazing  applications together!</p>
 <br>
-My Projects
 I've worked on a range of exciting projects, including:
 <p>🌐 Building responsive and mobile-first websites that offer a seamless user experience.</p>
 <p>📊 Developing data-driven web applications with intuitive user interfaces.</p>
