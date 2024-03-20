@@ -2,7 +2,7 @@
 Hello there! 👋 I'm a looking for the front-end developer job with a strong driving force of being full-stack developer. I thrive on creating engaging and user-friendly application experiences, and I'm on a journey to turn my passion into a profession.
 </bn>
 <p>Here's a bit about me:</p>
-<p>🔭 I'm currently exploring job opportunities in front-end development.</p>
+<p>🔭 I'm currently exploring job opportunities in front-end & full stack development.</p>
 <p>🌱 My tech stack includes React, Node.js, Java, .net, Python docker mongodb mysql..</p>
 <p>
 🚀 I love learning and experimenting with new technologies to stay at the cutting edge of programming development.</p>
