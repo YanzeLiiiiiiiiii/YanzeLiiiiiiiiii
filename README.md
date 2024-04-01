@@ -1,5 +1,5 @@
 <h3>About Me</h3>
-Hello there! 👋 I'm a looking for the front-end developer job & full-stack developer . I thrive on creating engaging and user-friendly application experiences, and I'm on a journey to turn my passion into a profession.
+Hello there! 👋 I'm a looking for the front-end developer  & full-stack developer job . I thrive on creating engaging and user-friendly application experiences, and I'm on a journey to turn my passion into a profession.
 </bn>
 <p>Here's a bit about me:</p>
 <p>🔭 I'm currently exploring job opportunities in front-end & full stack development.</p>
