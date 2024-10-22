@@ -20,5 +20,5 @@ Let's Connect
 I'm excited to explore new opportunities and collaborate with fellow developers and innovative teams. If you're interested in working together or just want to chat about web development, feel free to reach out:
 <br>
 <p>📧 Email: yanze1221@gmail.com<p/>
-<p>💼 LinkedIn: https://www.linkedin.com/in/yanze-li-079b7823a/<p/>
+<p>💼 LinkedIn: www.linkedin.com/in/yanzeli<p/>
 <p>Let's create awesome applications together! 😊<p/>
